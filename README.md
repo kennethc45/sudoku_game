@@ -1,7 +1,7 @@
 # Sudoku
 Dive into the logic of puzzle-soling with blazing-fast Sudoku solver and generator built for performance, safety, and fun.
 
-![Screenshot of the project](assets/README.png)
+![Screenshot of the project](src/assets/README.png)
 
 <details>
   <summary><strong style="font-size: 32px;">How to Run </strong></summary>
